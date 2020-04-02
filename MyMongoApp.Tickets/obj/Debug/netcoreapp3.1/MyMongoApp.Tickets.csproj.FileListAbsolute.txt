@@ -1,0 +1,11 @@
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Tickets\obj\Debug\netcoreapp3.1\MyMongoApp.Tickets.csprojAssemblyReference.cache
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Tickets\obj\Debug\netcoreapp3.1\MyMongoApp.Tickets.AssemblyInfoInputs.cache
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Tickets\obj\Debug\netcoreapp3.1\MyMongoApp.Tickets.AssemblyInfo.cs
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Tickets\bin\Debug\netcoreapp3.1\MyMongoApp.Tickets.deps.json
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Tickets\bin\Debug\netcoreapp3.1\MyMongoApp.Tickets.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Tickets\bin\Debug\netcoreapp3.1\MyMongoApp.Tickets.pdb
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Tickets\bin\Debug\netcoreapp3.1\MyMongoApp.Model.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Tickets\bin\Debug\netcoreapp3.1\MyMongoApp.Model.pdb
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Tickets\obj\Debug\netcoreapp3.1\MyMongoApp.Tickets.csproj.CopyComplete
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Tickets\obj\Debug\netcoreapp3.1\MyMongoApp.Tickets.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Tickets\obj\Debug\netcoreapp3.1\MyMongoApp.Tickets.pdb

@@ -1,0 +1,8 @@
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Model\bin\Debug\netcoreapp3.1\MyMongoApp.Model.deps.json
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Model\bin\Debug\netcoreapp3.1\MyMongoApp.Model.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Model\bin\Debug\netcoreapp3.1\MyMongoApp.Model.pdb
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Model\obj\Debug\netcoreapp3.1\MyMongoApp.Model.csprojAssemblyReference.cache
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Model\obj\Debug\netcoreapp3.1\MyMongoApp.Model.AssemblyInfoInputs.cache
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Model\obj\Debug\netcoreapp3.1\MyMongoApp.Model.AssemblyInfo.cs
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Model\obj\Debug\netcoreapp3.1\MyMongoApp.Model.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.Model\obj\Debug\netcoreapp3.1\MyMongoApp.Model.pdb

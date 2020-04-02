@@ -1,0 +1,11 @@
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.DataAccess\bin\Debug\netcoreapp3.1\MyMongoApp.DataAccess.deps.json
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.DataAccess\bin\Debug\netcoreapp3.1\MyMongoApp.DataAccess.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.DataAccess\bin\Debug\netcoreapp3.1\MyMongoApp.Model.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.DataAccess\bin\Debug\netcoreapp3.1\MyMongoApp.Model.pdb
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.DataAccess\obj\Debug\netcoreapp3.1\MyMongoApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.DataAccess\obj\Debug\netcoreapp3.1\MyMongoApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.DataAccess\obj\Debug\netcoreapp3.1\MyMongoApp.DataAccess.AssemblyInfo.cs
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.DataAccess\obj\Debug\netcoreapp3.1\MyMongoApp.DataAccess.csproj.CopyComplete
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.DataAccess\bin\Debug\netcoreapp3.1\MyMongoApp.DataAccess.pdb
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.DataAccess\obj\Debug\netcoreapp3.1\MyMongoApp.DataAccess.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.DataAccess\obj\Debug\netcoreapp3.1\MyMongoApp.DataAccess.pdb

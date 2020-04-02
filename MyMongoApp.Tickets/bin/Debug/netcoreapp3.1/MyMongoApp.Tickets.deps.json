@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyMongoApp.Tickets/1.0.0": {
+        "dependencies": {
+          "MyMongoApp.Model": "1.0.0"
+        },
+        "runtime": {
+          "MyMongoApp.Tickets.dll": {}
+        }
+      },
+      "MyMongoApp.Model/1.0.0": {
+        "runtime": {
+          "MyMongoApp.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyMongoApp.Tickets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyMongoApp.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

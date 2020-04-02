@@ -1,0 +1,17 @@
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\bin\Debug\netcoreapp3.1\MyMongoApp.BusinessLogic.deps.json
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\bin\Debug\netcoreapp3.1\MyMongoApp.BusinessLogic.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\bin\Debug\netcoreapp3.1\MyMongoApp.DataAccess.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\bin\Debug\netcoreapp3.1\MyMongoApp.Model.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\bin\Debug\netcoreapp3.1\MyMongoApp.Tickets.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\bin\Debug\netcoreapp3.1\MyMongoApp.Tickets.Jira.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\bin\Debug\netcoreapp3.1\MyMongoApp.DataAccess.pdb
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\bin\Debug\netcoreapp3.1\MyMongoApp.Model.pdb
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\bin\Debug\netcoreapp3.1\MyMongoApp.Tickets.Jira.pdb
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\bin\Debug\netcoreapp3.1\MyMongoApp.Tickets.pdb
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\obj\Debug\netcoreapp3.1\MyMongoApp.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\obj\Debug\netcoreapp3.1\MyMongoApp.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\obj\Debug\netcoreapp3.1\MyMongoApp.BusinessLogic.AssemblyInfo.cs
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\obj\Debug\netcoreapp3.1\MyMongoApp.BusinessLogic.csproj.CopyComplete
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\bin\Debug\netcoreapp3.1\MyMongoApp.BusinessLogic.pdb
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\obj\Debug\netcoreapp3.1\MyMongoApp.BusinessLogic.dll
+C:\Users\Softw\source\repos\MyMongoApp\MyMongoApp.BusinessLogic\obj\Debug\netcoreapp3.1\MyMongoApp.BusinessLogic.pdb

@@ -1,0 +1,408 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Api\\MyMongoApp.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Api\\MyMongoApp.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Api\\MyMongoApp.Api.csproj",
+        "projectName": "MyMongoApp.Api",
+        "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Api\\MyMongoApp.Api.csproj",
+        "packagesPath": "C:\\Users\\Softw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Softw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.BusinessLogic\\MyMongoApp.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.BusinessLogic\\MyMongoApp.BusinessLogic.csproj"
+              },
+              "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj": {
+                "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Amazon.Lambda.AspNetCoreServer": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Amazon.Lambda.RuntimeSupport": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.BusinessLogic\\MyMongoApp.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.BusinessLogic\\MyMongoApp.BusinessLogic.csproj",
+        "projectName": "MyMongoApp.BusinessLogic",
+        "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.BusinessLogic\\MyMongoApp.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Softw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Softw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.DataAccess\\MyMongoApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.DataAccess\\MyMongoApp.DataAccess.csproj"
+              },
+              "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj": {
+                "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj"
+              },
+              "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets.Jira\\MyMongoApp.Tickets.Jira.csproj": {
+                "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets.Jira\\MyMongoApp.Tickets.Jira.csproj"
+              },
+              "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets\\MyMongoApp.Tickets.csproj": {
+                "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets\\MyMongoApp.Tickets.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.DataAccess\\MyMongoApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.DataAccess\\MyMongoApp.DataAccess.csproj",
+        "projectName": "MyMongoApp.DataAccess",
+        "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.DataAccess\\MyMongoApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Softw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Softw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj": {
+                "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj",
+        "projectName": "MyMongoApp.Model",
+        "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj",
+        "packagesPath": "C:\\Users\\Softw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Softw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets.Jira\\MyMongoApp.Tickets.Jira.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets.Jira\\MyMongoApp.Tickets.Jira.csproj",
+        "projectName": "MyMongoApp.Tickets.Jira",
+        "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets.Jira\\MyMongoApp.Tickets.Jira.csproj",
+        "packagesPath": "C:\\Users\\Softw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets.Jira\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Softw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj": {
+                "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj"
+              },
+              "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets\\MyMongoApp.Tickets.csproj": {
+                "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets\\MyMongoApp.Tickets.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Atlassian.SDK": {
+              "target": "Package",
+              "version": "[12.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets\\MyMongoApp.Tickets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets\\MyMongoApp.Tickets.csproj",
+        "projectName": "MyMongoApp.Tickets",
+        "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets\\MyMongoApp.Tickets.csproj",
+        "packagesPath": "C:\\Users\\Softw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Tickets\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Softw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj": {
+                "projectPath": "C:\\Users\\Softw\\source\\repos\\MyMongoApp\\MyMongoApp.Model\\MyMongoApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

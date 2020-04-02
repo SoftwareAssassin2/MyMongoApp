@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Atlassian.SDK" Version="12.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyMongoApp.Model\MyMongoApp.Model.csproj" />
+    <ProjectReference Include="..\MyMongoApp.Tickets\MyMongoApp.Tickets.csproj" />
+  </ItemGroup>
+
+</Project>
